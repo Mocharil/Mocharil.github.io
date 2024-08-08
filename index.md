@@ -1,66 +1,62 @@
-## Selected projects in data science, machine learning and NLP
+## Professional Experience
 
----
+### Senior Data Scientist - PT Pakar Digital Global (Paper.id)
+*Jun 2023 - Present*
 
-### OCR DocumentAI & Gemini Integration at Paper.id
+- Lead development and deployment of machine learning models and advanced analytics solutions
+- Optimize script execution and enhance classification models
+- Streamline operational processes using data-driven approaches
 
-Designed and implemented an advanced OCR system using DocumentAI and Gemini for efficient document processing and data extraction.
+#### Key Projects:
+- Script Legacy Improvement & Python Wrapper Development
+- Modeling and Deployment Dashboard for Item Classification & User Scoring
+- KYC and KYB NWOW Dashboard and Analysis
+- Finance Operation & Bank Statement Analysis Dashboard
+- OCR DocumentAI & Gemini Integration
+- Invoice Validation & KYC/KYB Process Automation
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Google_Cloud-white?logo=googlecloud)](#) [![](https://img.shields.io/badge/DocumentAI-white?logo=google)](#) [![](https://img.shields.io/badge/Gemini-white?logo=google)](#)
+### Assistant Manager Audit Data Analytics - PT Bukalapak.com
+*Jan 2022 - Jun 2023*
 
-[View project details](#)
+- Led initiatives to enhance data-driven auditing processes and fraud detection mechanisms
+- Developed automated dashboards for monitoring and auditing
+- Conducted comprehensive fraud investigations and value audits
 
----
+### Data Scientist - PT. Telkom Indonesia
+*Jan 2020 - Dec 2021*
 
-### Finance Operation & Bank Statement Analysis Dashboard
+- Developed advanced analytics solutions and leveraged machine learning models
+- Focused on legal analytics and social media analysis
 
-Developed a Flask-based dashboard for automated data processing of disbursements and Journal Entries, significantly reducing process time.
+### Data Scientist - PT. Indonesia Indicator
+*Mar 2018 - Dec 2019*
 
-<img src="images/dashboard.png?raw=true" />
+- Developed and implemented data-driven solutions for political and brand analysis
+- Built social scoring systems and conducted social media analysis
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Flask-white?logo=flask)](#) [![](https://img.shields.io/badge/SQL-white?logo=mysql)](#) [![](https://img.shields.io/badge/Looker-white?logo=looker)](#)
+## Skills
 
-[View project details](#)
+- Programming: Python, SQL, FastAPI, Flask
+- Big Data: Airflow, Spark, BigQuery
+- Databases: MySQL, MongoDB, ArangoDB, Elasticsearch
+- Cloud: GCP, VertexAI
+- Visualization: Metabase, Looker, Redash
+- Machine Learning: NLP, Computer Vision, OCR
+- Tools: Docker, Git, Gephi
 
----
+## Certifications
 
-### Fraud Analysis & Value Audit at Bukalapak
+- Data Science for Business Professional (DSBIZ)
+- Extract Text Data with Python and Regex
+- Introduction to Deep Learning
+- Computer Vision: Python OCR & Object Detection Quick Starter
+- Docker for Absolute Beginners
+- Deep Learning in Computer Vision
 
-Conducted comprehensive fraud investigations using data-driven techniques and field audits to identify internal and external fraud activities.
+## Honors & Awards
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/pandas-white?logo=pandas)](#) [![](https://img.shields.io/badge/NetworkX-white?logo=networkx)](#)
-
-[View project details](#)
-
----
-
-### Legal Analytics Dashboard at Telkom Indonesia
-
-Developed an OCR model to extract data from legal documents and created a search engine with word suggestion features.
-
-<img src="images/legal_analytics.png?raw=true" />
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Elasticsearch-white?logo=elasticsearch)](#) [![](https://img.shields.io/badge/OCR-white?logo=opencv)](#) [![](https://img.shields.io/badge/NLP-white?logo=nltk)](#)
-
-[View project details](#)
-
----
-
-### Social Media Analysis for Political Campaigns
-
-Conducted extensive profiling for political campaigns on social media, providing valuable insights into campaign strategies and public sentiment.
-
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/NLTK-white?logo=nltk)](#) [![](https://img.shields.io/badge/Matplotlib-white?logo=matplotlib)](#)
-
-[View project details](#)
-
----
-
-## Skills-based projects
-A selection of smaller projects demonstrating specific data science and ML skills.
-
-- [Implementing KYC/KYB process automation](#)
-- [Developing auto-reconciliation for disbursement processes](#)
-- [Creating a social scoring system for credit risk assessment](#)
-- [Building an auto-reporting engine for daily reports](#)
-- [Optimizing classification models with advanced techniques](#)
+- Speaker in Webinar: "The Awesome Microsoft Excel: Membangun Karir Impian sebagai Data Scientist" (Apr 2023)
+- Top 30 Telkomsel Tech Titans League Series 3 - Machine Learning (Oct 2021)
+- Top 30 Telkomsel Tech Titans League Series 1 - Data Science (Sep 2021)
+- Speaker in LAWebinar 2.0 "Data Driven Law Culture & The Future of Legal Technology" (Jun 2021)
+- Top 100 Telkomsel Tech Titans League Series 1 - Data Analytics (Oct 2020)
